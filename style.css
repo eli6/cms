@@ -1,0 +1,77 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+#header {
+    
+    height: 300px;
+    background-color:steelblue;
+    font-size: 9em;
+    color:white;
+    margin: -8px -5px 50px -5px;
+}
+
+#header #headerText {
+        
+    width: 900px;
+    margin:auto;
+    padding-top: 10px;
+    text-align:center;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+
+
+#container {
+    
+    width: 700px;
+    padding-left: 50px;
+}
+
+#id {
+    
+    background-color: white;
+    width: 5%;
+    font-size: 2em;
+    
+}
+
+#date {
+    
+    font-size: 1em;
+    padding: 10px 0;
+    color: #363636;
+}
+
+#title {
+    
+  
+     background-color: white;
+    color:dimgray;
+   margin-top: 40px;
+    font-size: 3em;
+    
+}
+
+iframe {
+    
+    padding: 0px 0 30px 0;
+}
+
+#text {
+    
+    padding: 10px 0 30px 0;
+    line-height: 1.5em;
+    border-bottom: 2px solid dimgray;
+    opacity: 0.9;
+}
+
+
+#text img {
+    
+    width: 70%;
+    padding: 20px 0;
+}
+
